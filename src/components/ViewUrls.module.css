@@ -1,0 +1,10 @@
+.tableContainer{
+    border: 2px solid gray;
+    margin:auto;
+    border-spacing: 10px;
+}
+
+.list{
+    list-style: none;
+    font-weight: bold;
+}
